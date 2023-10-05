@@ -1,0 +1,4492 @@
+fileFormatVersion: 2
+guid: 77ad545819f24a242b1367a05c00e13b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1013864432239133734
+    second: The King of The Dead_0
+  - first:
+      213: 5479011543916470852
+    second: The King of The Dead_1
+  - first:
+      213: -1774118749840467770
+    second: The King of The Dead_2
+  - first:
+      213: 2161890016493004245
+    second: The King of The Dead_3
+  - first:
+      213: -4708043176858498507
+    second: The King of The Dead_4
+  - first:
+      213: 7486407802314517293
+    second: The King of The Dead_5
+  - first:
+      213: -223504960049312957
+    second: The King of The Dead_6
+  - first:
+      213: 8477977189251998415
+    second: The King of The Dead_7
+  - first:
+      213: -1505884783626524230
+    second: The King of The Dead_8
+  - first:
+      213: 3200491630692072444
+    second: The King of The Dead_9
+  - first:
+      213: -5810601676467052227
+    second: The King of The Dead_10
+  - first:
+      213: 9076482003844209349
+    second: The King of The Dead_11
+  - first:
+      213: -8409953015013652792
+    second: The King of The Dead_12
+  - first:
+      213: -4738177962342681313
+    second: The King of The Dead_13
+  - first:
+      213: 8789972752743763332
+    second: The King of The Dead_14
+  - first:
+      213: 1751236235198015954
+    second: The King of The Dead_15
+  - first:
+      213: -4607162940400891668
+    second: The King of The Dead_16
+  - first:
+      213: 5357944584555285363
+    second: The King of The Dead_17
+  - first:
+      213: -3281513446077201443
+    second: The King of The Dead_18
+  - first:
+      213: 2077642965604612217
+    second: The King of The Dead_19
+  - first:
+      213: -7968667310079849779
+    second: The King of The Dead_20
+  - first:
+      213: 5632750089376234340
+    second: The King of The Dead_21
+  - first:
+      213: -5143273691950377091
+    second: The King of The Dead_22
+  - first:
+      213: -8265231842700808533
+    second: The King of The Dead_23
+  - first:
+      213: 3841911997251704003
+    second: The King of The Dead_24
+  - first:
+      213: 5747554544319580236
+    second: The King of The Dead_25
+  - first:
+      213: 5346602784871500050
+    second: The King of The Dead_26
+  - first:
+      213: 2491309146674023431
+    second: The King of The Dead_27
+  - first:
+      213: -7330179379946024844
+    second: The King of The Dead_28
+  - first:
+      213: 71442165978646833
+    second: The King of The Dead_29
+  - first:
+      213: -427674008161087453
+    second: The King of The Dead_30
+  - first:
+      213: -539788184590846456
+    second: The King of The Dead_31
+  - first:
+      213: -3944771425798282922
+    second: The King of The Dead_32
+  - first:
+      213: 850810727667592037
+    second: The King of The Dead_33
+  - first:
+      213: 5236619024091898983
+    second: The King of The Dead_34
+  - first:
+      213: 7366824721702518866
+    second: The King of The Dead_35
+  - first:
+      213: -8770184536100427801
+    second: The King of The Dead_36
+  - first:
+      213: -5596011564246419733
+    second: The King of The Dead_37
+  - first:
+      213: -6975860215230427981
+    second: The King of The Dead_38
+  - first:
+      213: 7386251286364013087
+    second: The King of The Dead_39
+  - first:
+      213: 2943479234454642478
+    second: The King of The Dead_40
+  - first:
+      213: -8839591034191925221
+    second: The King of The Dead_41
+  - first:
+      213: 3320813048519062758
+    second: The King of The Dead_42
+  - first:
+      213: 4391508147546597122
+    second: The King of The Dead_43
+  - first:
+      213: -1285940259120774869
+    second: The King of The Dead_44
+  - first:
+      213: 7367217182482170649
+    second: The King of The Dead_45
+  - first:
+      213: 3010442562151149703
+    second: The King of The Dead_46
+  - first:
+      213: 9118549733152889996
+    second: The King of The Dead_47
+  - first:
+      213: -4689987724252859239
+    second: The King of The Dead_48
+  - first:
+      213: -4974777504747167721
+    second: The King of The Dead_49
+  - first:
+      213: 3275852173516651767
+    second: The King of The Dead_50
+  - first:
+      213: 3290091955871800177
+    second: The King of The Dead_51
+  - first:
+      213: -6334408117309460536
+    second: The King of The Dead_52
+  - first:
+      213: 8092191448181649150
+    second: The King of The Dead_53
+  - first:
+      213: -580711241711948634
+    second: The King of The Dead_54
+  - first:
+      213: 8251200862969446728
+    second: The King of The Dead_55
+  - first:
+      213: 8203650276684287011
+    second: The King of The Dead_56
+  - first:
+      213: 5180614358778564862
+    second: The King of The Dead_57
+  - first:
+      213: -4402091605494827603
+    second: The King of The Dead_58
+  - first:
+      213: 8073099495602181800
+    second: The King of The Dead_59
+  - first:
+      213: -2941933844889444890
+    second: The King of The Dead_60
+  - first:
+      213: 7320828355713910798
+    second: The King of The Dead_61
+  - first:
+      213: 7972584593805082797
+    second: The King of The Dead_62
+  - first:
+      213: -2431754579488709015
+    second: The King of The Dead_63
+  - first:
+      213: 5623340271043943398
+    second: The King of The Dead_64
+  - first:
+      213: -5117303734362901353
+    second: The King of The Dead_65
+  - first:
+      213: -3947785896806477792
+    second: The King of The Dead_66
+  - first:
+      213: 5036460549774057914
+    second: The King of The Dead_67
+  - first:
+      213: -3698547568735406672
+    second: The King of The Dead_68
+  - first:
+      213: 979445651980848759
+    second: The King of The Dead_69
+  - first:
+      213: -6232760649746262327
+    second: The King of The Dead_70
+  - first:
+      213: 6895588750267940649
+    second: The King of The Dead_71
+  - first:
+      213: -1365472759922946026
+    second: The King of The Dead_72
+  - first:
+      213: 8800568354730975066
+    second: The King of The Dead_73
+  - first:
+      213: 2220335396403372745
+    second: The King of The Dead_74
+  - first:
+      213: -5787937842268103865
+    second: The King of The Dead_75
+  - first:
+      213: 875572570967612911
+    second: The King of The Dead_76
+  - first:
+      213: -3897589803691287833
+    second: The King of The Dead_77
+  - first:
+      213: 4116169826804801772
+    second: The King of The Dead_78
+  - first:
+      213: -7633913377990037952
+    second: The King of The Dead_79
+  - first:
+      213: 1935031026464082510
+    second: The King of The Dead_80
+  - first:
+      213: 740003400830964703
+    second: The King of The Dead_81
+  - first:
+      213: -787618845402708065
+    second: The King of The Dead_82
+  - first:
+      213: -7956102032054885668
+    second: The King of The Dead_83
+  - first:
+      213: -2521957203274966426
+    second: The King of The Dead_84
+  - first:
+      213: -8776439147957159403
+    second: The King of The Dead_85
+  - first:
+      213: 5890255665066523840
+    second: The King of The Dead_86
+  - first:
+      213: 4512442500578293599
+    second: The King of The Dead_87
+  - first:
+      213: -5641741229255933604
+    second: The King of The Dead_88
+  - first:
+      213: -8476435100170139261
+    second: The King of The Dead_89
+  - first:
+      213: -4995073998624336954
+    second: The King of The Dead_90
+  - first:
+      213: -1272098577737948527
+    second: The King of The Dead_91
+  - first:
+      213: 3819152637921666931
+    second: The King of The Dead_92
+  - first:
+      213: 8181547137728317512
+    second: The King of The Dead_93
+  - first:
+      213: -979523203676406233
+    second: The King of The Dead_94
+  - first:
+      213: 501728966561892393
+    second: The King of The Dead_95
+  - first:
+      213: 6376578396455910326
+    second: The King of The Dead_96
+  - first:
+      213: 3607621913721037068
+    second: The King of The Dead_97
+  - first:
+      213: 7802608375126552601
+    second: The King of The Dead_98
+  - first:
+      213: 1111428514445374182
+    second: The King of The Dead_99
+  - first:
+      213: 930523256072461377
+    second: The King of The Dead_100
+  - first:
+      213: 3134061929577782728
+    second: The King of The Dead_101
+  - first:
+      213: 6600189418076581269
+    second: The King of The Dead_102
+  - first:
+      213: 7585485537161258354
+    second: The King of The Dead_103
+  - first:
+      213: 8206882289613506292
+    second: The King of The Dead_104
+  - first:
+      213: 292905669023099996
+    second: The King of The Dead_105
+  - first:
+      213: -8789058248812293338
+    second: The King of The Dead_106
+  - first:
+      213: -4221254224407278874
+    second: The King of The Dead_107
+  - first:
+      213: 6999519977747876704
+    second: The King of The Dead_108
+  - first:
+      213: -7739655947582551627
+    second: The King of The Dead_109
+  - first:
+      213: 4338811957668013537
+    second: The King of The Dead_110
+  - first:
+      213: 7274603762660843531
+    second: The King of The Dead_111
+  - first:
+      213: -487516380212631594
+    second: The King of The Dead_112
+  - first:
+      213: 2782178783668358502
+    second: The King of The Dead_113
+  - first:
+      213: 8308325201471240268
+    second: The King of The Dead_114
+  - first:
+      213: 5373212710634801588
+    second: The King of The Dead_115
+  - first:
+      213: -7291915466862227064
+    second: The King of The Dead_116
+  - first:
+      213: -4489813563554857837
+    second: The King of The Dead_117
+  - first:
+      213: -9210798843045962315
+    second: The King of The Dead_118
+  - first:
+      213: 466004402660067317
+    second: The King of The Dead_119
+  - first:
+      213: 200745882395017227
+    second: The King of The Dead_120
+  - first:
+      213: 7889033041061269451
+    second: The King of The Dead_121
+  - first:
+      213: -2882100330417895847
+    second: The King of The Dead_122
+  - first:
+      213: 261209262026182859
+    second: The King of The Dead_123
+  - first:
+      213: -1929233382572773364
+    second: The King of The Dead_124
+  - first:
+      213: -3580032809054356028
+    second: The King of The Dead_125
+  - first:
+      213: -6610498203561856321
+    second: The King of The Dead_126
+  - first:
+      213: -1974372935332042820
+    second: The King of The Dead_127
+  - first:
+      213: 9104476987385887264
+    second: The King of The Dead_128
+  - first:
+      213: -882045783034616210
+    second: The King of The Dead_129
+  - first:
+      213: 2463438757581110611
+    second: The King of The Dead_130
+  - first:
+      213: -5345448956372304367
+    second: The King of The Dead_131
+  - first:
+      213: 6227438480914177279
+    second: The King of The Dead_132
+  - first:
+      213: -5152017145127289296
+    second: The King of The Dead_133
+  - first:
+      213: 4819119106326798625
+    second: The King of The Dead_134
+  - first:
+      213: 2498797248092825055
+    second: The King of The Dead_135
+  - first:
+      213: -8737315291034754714
+    second: The King of The Dead_136
+  - first:
+      213: -5338676847090579930
+    second: The King of The Dead_137
+  - first:
+      213: -1733393377514554172
+    second: The King of The Dead_138
+  - first:
+      213: 2391653959780032238
+    second: The King of The Dead_139
+  - first:
+      213: 3086897201713835981
+    second: The King of The Dead_140
+  - first:
+      213: 2537733134783502459
+    second: The King of The Dead_141
+  - first:
+      213: -7928775517887099320
+    second: The King of The Dead_142
+  - first:
+      213: -5673075388481903088
+    second: The King of The Dead_143
+  - first:
+      213: 5013305097966887046
+    second: The King of The Dead_144
+  - first:
+      213: -2336887411911479941
+    second: The King of The Dead_145
+  - first:
+      213: 6516967296059753946
+    second: The King of The Dead_146
+  - first:
+      213: -1816032619840743611
+    second: The King of The Dead_147
+  - first:
+      213: 3782732889449908517
+    second: The King of The Dead_148
+  - first:
+      213: 569651848366602040
+    second: The King of The Dead_149
+  - first:
+      213: 5413638460278227491
+    second: The King of The Dead_150
+  - first:
+      213: 5533983728381010911
+    second: The King of The Dead_151
+  - first:
+      213: 6942213388757193934
+    second: The King of The Dead_152
+  - first:
+      213: -4716182493956777396
+    second: The King of The Dead_153
+  - first:
+      213: 7052760626181121783
+    second: The King of The Dead_154
+  - first:
+      213: -8837612524602288703
+    second: The King of The Dead_155
+  - first:
+      213: -6586416397508901538
+    second: The King of The Dead_156
+  - first:
+      213: 1975562075102985525
+    second: The King of The Dead_157
+  - first:
+      213: 8424145478459494783
+    second: The King of The Dead_158
+  - first:
+      213: 6573387595530267971
+    second: The King of The Dead_159
+  - first:
+      213: -7388328262653439624
+    second: The King of The Dead_160
+  - first:
+      213: 4155260208657977759
+    second: The King of The Dead_161
+  - first:
+      213: 3697178649248682271
+    second: The King of The Dead_162
+  - first:
+      213: -4799877734034134022
+    second: The King of The Dead_163
+  - first:
+      213: -2010667236446766580
+    second: The King of The Dead_164
+  - first:
+      213: 3523840707050214235
+    second: The King of The Dead_165
+  - first:
+      213: 1898098854178653091
+    second: The King of The Dead_166
+  - first:
+      213: -4611635505763413858
+    second: The King of The Dead_167
+  - first:
+      213: -7596293314807296225
+    second: The King of The Dead_168
+  - first:
+      213: 2802064456555519983
+    second: The King of The Dead_169
+  - first:
+      213: 3767873835961363568
+    second: The King of The Dead_170
+  - first:
+      213: -7018513302583631060
+    second: The King of The Dead_171
+  - first:
+      213: -7583098650388750728
+    second: The King of The Dead_172
+  - first:
+      213: -7014207145425669080
+    second: The King of The Dead_173
+  - first:
+      213: -8571579507023231414
+    second: The King of The Dead_174
+  - first:
+      213: -2770067920195248730
+    second: The King of The Dead_175
+  - first:
+      213: -7223326000329800236
+    second: The King of The Dead_176
+  - first:
+      213: -7644931553426658094
+    second: The King of The Dead_177
+  - first:
+      213: -7719461280406584273
+    second: The King of The Dead_178
+  - first:
+      213: -3169978229202814179
+    second: The King of The Dead_179
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The King of The Dead_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2049
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62444065458f11e00800000000000000
+      internalID: 1013864432239133734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1984
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442e76b58fb590c40800000000000000
+      internalID: 5479011543916470852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2049
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8166e85601167e0800000000000000
+      internalID: -1774118749840467770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1984
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5678c0483900e10800000000000000
+      internalID: 2161890016493004245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2049
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ac528ccaba9aeb0800000000000000
+      internalID: -4708043176858498507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1984
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b6ba44b3015e760800000000000000
+      internalID: 7486407802314517293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b09ba4c63f5ecf0800000000000000
+      internalID: -223504960049312957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1984
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2ea3bd553d7a570800000000000000
+      internalID: 8477977189251998415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9664f84c50a1be0800000000000000
+      internalID: -1505884783626524230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1984
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbf2026e2e6a6c20800000000000000
+      internalID: 3200491630692072444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3164e6af889c5fa0800000000000000
+      internalID: -5810601676467052227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1984
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca1c511b4426fd70800000000000000
+      internalID: 9076482003844209349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6c26a6a48d94b80800000000000000
+      internalID: -8409953015013652792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1984
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15faf74f3c9e3eb0800000000000000
+      internalID: -4738177962342681313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1919
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d87a8b5a14cf970800000000000000
+      internalID: 8789972752743763332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1856
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d925c4d314ad4810800000000000000
+      internalID: 1751236235198015954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1919
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88f0b27b11010c0800000000000000
+      internalID: -4607162940400891668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1856
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b45a8463e3b5a40800000000000000
+      internalID: 5357944584555285363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1919
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd386e038e8b572d0800000000000000
+      internalID: -3281513446077201443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1856
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978b3f6f44545dc10800000000000000
+      internalID: 2077642965604612217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1919
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca4c612d4b996190800000000000000
+      internalID: -7968667310079849779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1856
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bf1d9dc5c8b2e40800000000000000
+      internalID: 5632750089376234340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1919
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d779fa0d3db6f98b0800000000000000
+      internalID: -5143273691950377091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1856
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae229d1e6ffb4d80800000000000000
+      internalID: -8265231842700808533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1919
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4df7e2b96315530800000000000000
+      internalID: 3841911997251704003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1856
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48c95df76a63cf40800000000000000
+      internalID: 5747554544319580236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1919
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2194163c7e2f23a40800000000000000
+      internalID: 5346602784871500050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1856
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ccf292878e29220800000000000000
+      internalID: 2491309146674023431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1793
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4709c6ed0b8f54a90800000000000000
+      internalID: -7330179379946024844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1728
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139442d7540ddf000800000000000000
+      internalID: 71442165978646833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1791
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32014e761c8901af0800000000000000
+      internalID: -427674008161087453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1728
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806728b81894288f0800000000000000
+      internalID: -539788184590846456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1791
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651ae2dd94b5149c0800000000000000
+      internalID: -3944771425798282922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1728
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be7b959dfaecb00800000000000000
+      internalID: 850810727667592037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1791
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764ec03f1453ca840800000000000000
+      internalID: 5236619024091898983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1727
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25005a3ad083c3660800000000000000
+      internalID: 7366824721702518866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1727
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e72c1f71ab0a4680800000000000000
+      internalID: -8770184536100427801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_37
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1791
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be63d1a9129f652b0800000000000000
+      internalID: -5596011564246419733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_38
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1727
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc096c0814c03f90800000000000000
+      internalID: -6975860215230427981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1791
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12cf71396c318660800000000000000
+      internalID: 7386251286364013087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_40
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1727
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f586db4c659d820800000000000000
+      internalID: 2943479234454642478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1791
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10334fd9c6735580800000000000000
+      internalID: -8839591034191925221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1791
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4f57a8fd5e51e20800000000000000
+      internalID: 3320813048519062758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1727
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207afba9465c1fc30800000000000000
+      internalID: 4391508147546597122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1663
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b218bb4c52c672ee0800000000000000
+      internalID: -1285940259120774869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1600
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91301098efc9d3660800000000000000
+      internalID: 7367217182482170649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1664
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7807cbd6f8d37c920800000000000000
+      internalID: 3010442562151149703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1600
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c9f4f8ba89b8e70800000000000000
+      internalID: 9118549733152889996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1664
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99437fe6301d9eeb0800000000000000
+      internalID: -4689987724252859239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1600
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710e0f8873a06fab0800000000000000
+      internalID: -4974777504747167721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1664
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcb623123a267d20800000000000000
+      internalID: 3275852173516651767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1599
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bdb14c331c8ad20800000000000000
+      internalID: 3290091955871800177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_52
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1664
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf2b61e069a718a0800000000000000
+      internalID: -6334408117309460536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_53
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1599
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe22537f3d3d4070800000000000000
+      internalID: 8092191448181649150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1664
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aceea0d336e0f7f0800000000000000
+      internalID: -580711241711948634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1599
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c0b7d777228270800000000000000
+      internalID: 8251200862969446728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_56
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1664
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c4d4b367839d170800000000000000
+      internalID: 8203650276684287011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_57
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1599
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d84daf4d35e740800000000000000
+      internalID: 5180614358778564862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_58
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1664
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da570c11201a8e2c0800000000000000
+      internalID: -4402091605494827603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1599
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6d0c7d739690070800000000000000
+      internalID: 8073099495602181800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1538
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed5aae41c62c27d0800000000000000
+      internalID: -2941933844889444890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1538
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e084fe32a9ec89560800000000000000
+      internalID: 7320828355713910798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1537
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0018f827f44ae60800000000000000
+      internalID: 7972584593805082797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1536
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96665ac081ca04ed0800000000000000
+      internalID: -2431754579488709015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1537
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb19bace2e1a0e40800000000000000
+      internalID: 5623340271043943398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1538
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f481cd5fabf8b0800000000000000
+      internalID: -5117303734362901353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1537
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0209d83a4a5a639c0800000000000000
+      internalID: -3947785896806477792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1536
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab12d8a8f2a15e540800000000000000
+      internalID: 5036460549774057914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_68
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1537
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b534acf49e1cacc0800000000000000
+      internalID: -3698547568735406672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1472
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8e1391a0b79d00800000000000000
+      internalID: 979445651980848759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1473
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c657dd2639c089a0800000000000000
+      internalID: -6232760649746262327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1474
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f76e81f6d02bf50800000000000000
+      internalID: 6895588750267940649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1474
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610125a62cddc0de0800000000000000
+      internalID: -1365472759922946026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1473
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f984d8a46e12a70800000000000000
+      internalID: 8800568354730975066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_74
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1473
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c269d8774730de10800000000000000
+      internalID: 2220335396403372745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_75
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1473
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b9191c23d1dafa0800000000000000
+      internalID: -5787937842268103865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1473
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed99934d98a62c00800000000000000
+      internalID: 875572570967612911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_77
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1473
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eadbce49baf8e9c0800000000000000
+      internalID: -3897589803691287833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_78
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1407
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0a1e926a29f1930800000000000000
+      internalID: 4116169826804801772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1344
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e2dca9a34ee0690800000000000000
+      internalID: -7633913377990037952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_80
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1407
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a40c1677c9ada10800000000000000
+      internalID: 1935031026464082510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1345
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd35c1f1c25054a00800000000000000
+      internalID: 740003400830964703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1408
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f974e5545d0d115f0800000000000000
+      internalID: -787618845402708065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1346
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ea96ea5f369190800000000000000
+      internalID: -7956102032054885668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_84
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1346
+        width: 49
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ade081945300dd0800000000000000
+      internalID: -2521957203274966426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_85
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1407
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a7e213813d33680800000000000000
+      internalID: -8776439147957159403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_86
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1345
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccb588c1546eb150800000000000000
+      internalID: 5890255665066523840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_87
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1407
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57385cdb8a6f9e30800000000000000
+      internalID: 4512442500578293599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_88
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1345
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5146834e3284b1b0800000000000000
+      internalID: -5641741229255933604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_89
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1408
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c4bcbf27ad5a80800000000000000
+      internalID: -8476435100170139261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_90
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1345
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d43dc9aeedaab0800000000000000
+      internalID: -4995073998624336954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_91
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1408
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19266aa5519985ee0800000000000000
+      internalID: -1272098577737948527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_92
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1345
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3772156e61b500530800000000000000
+      internalID: 3819152637921666931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_93
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1407
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848096926c1ba8170800000000000000
+      internalID: 8181547137728317512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_94
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1345
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e7d9306d80862f0800000000000000
+      internalID: -979523203676406233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_95
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1281
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928027936df76f600800000000000000
+      internalID: 501728966561892393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1216
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb3f2b54482e7850800000000000000
+      internalID: 6376578396455910326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_97
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1280
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e14b3409d01230800000000000000
+      internalID: 3607621913721037068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1280
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f7e82afe684c60800000000000000
+      internalID: 7802608375126552601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1215
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b1c468569c6f00800000000000000
+      internalID: 1111428514445374182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_100
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1215
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c5075a8f1e9ec00800000000000000
+      internalID: 930523256072461377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1280
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd1f8058bc6e7b20800000000000000
+      internalID: 3134061929577782728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_102
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1152
+        width: 49
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d2fb27e45989b50800000000000000
+      internalID: 6600189418076581269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_103
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1280
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2752c5b08ee054960800000000000000
+      internalID: 7585485537161258354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_104
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1152
+        width: 49
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f68bd1e5f3b4e170800000000000000
+      internalID: 8206882289613506292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_105
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1280
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ce1d2772c901400800000000000000
+      internalID: 292905669023099996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1151
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6239351d61ef60680800000000000000
+      internalID: -8789058248812293338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1088
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea4697e5a71b65c0800000000000000
+      internalID: -4221254224407278874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1151
+        width: 33
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b89efa55a432160800000000000000
+      internalID: 6999519977747876704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_109
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1151
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b94a901ce7379490800000000000000
+      internalID: -7739655947582551627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1087
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5e40ccc7e863c30800000000000000
+      internalID: 4338811957668013537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1152
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00ae13649594f460800000000000000
+      internalID: 7274603762660843531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1087
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ed376f6efb39f0800000000000000
+      internalID: -487516380212631594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_113
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1087
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d4e26fcd84c9620800000000000000
+      internalID: 2782178783668358502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_114
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1087
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c487e1850c91d4370800000000000000
+      internalID: 8308325201471240268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1087
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b94008ed7c719a40800000000000000
+      internalID: 5373212710634801588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_116
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1025
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88110816489edca90800000000000000
+      internalID: -7291915466862227064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_117
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 960
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cf49c1a5af0b1c0800000000000000
+      internalID: -4489813563554857837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_118
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 960
+        width: 36
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd9aaec04bac2080800000000000000
+      internalID: -9210798843045962315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_119
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 960
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f742540984977600800000000000000
+      internalID: 466004402660067317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_120
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 959
+        width: 37
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b000742015139c200800000000000000
+      internalID: 200745882395017227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_121
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 959
+        width: 37
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfc6c1c0c97b7d60800000000000000
+      internalID: 7889033041061269451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_122
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 36
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956c76ef409b008d0800000000000000
+      internalID: -2882100330417895847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_123
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 959
+        width: 37
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0dc1b907000a300800000000000000
+      internalID: 261209262026182859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_124
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 959
+        width: 38
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00bce6c57cf935e0800000000000000
+      internalID: -1929233382572773364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_125
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 959
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd3214c02b215ec0800000000000000
+      internalID: -3580032809054356028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_126
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 959
+        width: 37
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2765468eac244a0800000000000000
+      internalID: -6610498203561856321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_127
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 959
+        width: 36
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb76367a64e9994e0800000000000000
+      internalID: -1974372935332042820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_128
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 959
+        width: 35
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02abada1599995e70800000000000000
+      internalID: 9104476987385887264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_129
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 959
+        width: 36
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66279a980852c3f0800000000000000
+      internalID: -882045783034616210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_130
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 895
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d3d878f74ef2220800000000000000
+      internalID: 2463438757581110611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_131
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 832
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e327ede7621d5b0800000000000000
+      internalID: -5345448956372304367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_132
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 896
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcdc73dd4e4c6650800000000000000
+      internalID: 6227438480914177279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_133
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 832
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e37fbf3bb5088b0800000000000000
+      internalID: -5152017145127289296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_134
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 897
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12128ee5b43f0e240800000000000000
+      internalID: 4819119106326798625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5eb42abd28da220800000000000000
+      internalID: 2498797248092825055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_136
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 831
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661e84bf802deb680800000000000000
+      internalID: -8737315291034754714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_137
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 831
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626409e61b539e5b0800000000000000
+      internalID: -5338676847090579930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_138
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 831
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccfa3538efb1f7e0800000000000000
+      internalID: -1733393377514554172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_139
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 831
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee585ada9cd03120800000000000000
+      internalID: 2391653959780032238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_140
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 831
+        width: 38
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfec4e56acd6da20800000000000000
+      internalID: 3086897201713835981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 831
+        width: 40
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78528137d6d73320800000000000000
+      internalID: 2537733134783502459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_142
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 831
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e8688cca457f190800000000000000
+      internalID: -7928775517887099320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_143
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 831
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016668dcdff2541b0800000000000000
+      internalID: -5673075388481903088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 831
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680a8facc66d29540800000000000000
+      internalID: 5013305097966887046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_145
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 831
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d2fecb745b19fd0800000000000000
+      internalID: -2336887411911479941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 767
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5ca763a3be07a50800000000000000
+      internalID: 6516967296059753946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 767
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547ded934f72cc6e0800000000000000
+      internalID: -1816032619840743611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 767
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52949db6587fe7430800000000000000
+      internalID: 3782732889449908517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 767
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8373983865fc7e700800000000000000
+      internalID: 569651848366602040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 767
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322c6473f7b112b40800000000000000
+      internalID: 5413638460278227491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd321f271e8accc40800000000000000
+      internalID: 5533983728381010911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_152
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 767
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec455dfab42b75060800000000000000
+      internalID: 6942213388757193934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_153
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 768
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5ac75201cc8eb0800000000000000
+      internalID: -4716182493956777396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_154
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 767
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f623612c6070e160800000000000000
+      internalID: 7052760626181121783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_155
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 767
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c599888b3e7a5580800000000000000
+      internalID: -8837612524602288703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_156
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 641
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e558cabce295894a0800000000000000
+      internalID: -6586416397508901538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_157
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 640
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d3f368d3b9a6b10800000000000000
+      internalID: 1975562075102985525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_158
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 640
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f719acbfda398e470800000000000000
+      internalID: 8424145478459494783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_159
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d6a8ad03d593b50800000000000000
+      internalID: 6573387595530267971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_160
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 640
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87110941792677990800000000000000
+      internalID: -7388328262653439624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_161
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 640
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91df5ee4237aa930800000000000000
+      internalID: 4155260208657977759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_162
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 446
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1150ab94640f4330800000000000000
+      internalID: 3697178649248682271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_163
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 447
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afba699b1a8636db0800000000000000
+      internalID: -4799877734034134022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_164
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 447
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0af21a2dcca814e0800000000000000
+      internalID: -2010667236446766580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_165
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 447
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b531ac4f37237e030800000000000000
+      internalID: 3523840707050214235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_166
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 447
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a305efe9d6675a10800000000000000
+      internalID: 1898098854178653091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_167
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 447
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e909465e0fd2000c0800000000000000
+      internalID: -4611635505763413858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_168
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 254
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f8c312a7b849690800000000000000
+      internalID: -7596293314807296225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_169
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 255
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef5dbaf6cee2e620800000000000000
+      internalID: 2802064456555519983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_170
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 255
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c27fe6a4d2a4430800000000000000
+      internalID: 3767873835961363568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_171
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 256
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c232624465b399e90800000000000000
+      internalID: -7018513302583631060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_172
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 236
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e95d654fb63c690800000000000000
+      internalID: -7583098650388750728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_173
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 239
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82475eb93c788ae90800000000000000
+      internalID: -7014207145425669080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_174
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46ccdf3ad1ab0980800000000000000
+      internalID: -8571579507023231414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_175
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 63
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad9e0d27edbe89d0800000000000000
+      internalID: -2770067920195248730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_176
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 63
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5cf75064791cb90800000000000000
+      internalID: -7223326000329800236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_177
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 63
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc24d9b14fb7e590800000000000000
+      internalID: -7644931553426658094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_178
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 63
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24cbfb6dd6fed490800000000000000
+      internalID: -7719461280406584273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The King of The Dead_179
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 63
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf4a68899f104d0800000000000000
+      internalID: -3169978229202814179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
